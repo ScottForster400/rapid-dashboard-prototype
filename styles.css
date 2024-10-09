@@ -1,10 +1,10 @@
 .row .content {
-    height: 550px;
+    height: 100vw;
 }
 
 .sidenav {
-    background-color: #fafafa;
-    height: 100%;
+    background-color: #e2e8f0;
+    height: 100vh;
 }
 
 @media screen and (max-width: 767px) {
